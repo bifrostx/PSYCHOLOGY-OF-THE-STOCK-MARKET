@@ -1,4 +1,4 @@
-## I - The Speculative Cycle/一、投机周期
+# I - The Speculative Cycle/一、投机周期
 
 Most experienced professional traders in the stock market will readily admit that the minor fluctuations, amounting to perhaps five or ten dollars a share in the active speculative issues, are chiefly psychological. They result from varying attitudes of the public mind, or, more strictly, from the mental attitudes of those persons who are interested in the market at the time.
 

@@ -4,4 +4,4 @@
 ## 目录
 [Preface/前言](https://github.com/bifrostx/PSYCHOLOGY-OF-THE-STOCK-MARKET/blob/master/00_preface.md)
 
-[I - The Speculative Cycle/一、投机周期](https://github.com/bifrostx/PSYCHOLOGY-OF-THE-STOCK-MARKET/blob/master/01_The_Speculative_Cycle.md)
+[I - The Speculative Cycle/一、投机周期](https://github.com/bifrostx/PSYCHOLOGY-OF-THE-STOCK-MARKET/wiki/I---The-Speculative-Cycle)
